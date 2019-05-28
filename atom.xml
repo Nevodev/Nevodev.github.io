@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiovenr.github.io</id>
     <title>Pok! 电音资源网站 | TiovenR</title>
-    <updated>2019-05-28T12:49:43.821Z</updated>
+    <updated>2019-05-28T12:58:39.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiovenr.github.io"/>
     <link rel="self" href="https://tiovenr.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://tiovenr.github.io/images/avatar.png</logo>
     <icon>https://tiovenr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pok! 电音资源网站 | TiovenR</rights>
+    <entry>
+        <title type="html"><![CDATA[[插件]4Front Technologies TruePianos v1.9.4 x86 x64 虚拟真实钢琴]]></title>
+        <id>https://tiovenr.github.io/post/cha-jian-4front-technologies-truepianos-v194-x86-x64-xu-ni-zhen-shi-gang-qin</id>
+        <link href="https://tiovenr.github.io/post/cha-jian-4front-technologies-truepianos-v194-x86-x64-xu-ni-zhen-shi-gang-qin">
+        </link>
+        <updated>2019-05-28T12:51:35.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/16Uj3zwFIcphUqn-i7LGoRQ">百度网盘</a>
+提取码：mr8i</p>
+<p>软件截图:
+<img src="https://upload.cc/i1/2019/05/28/x50reu.png" alt=""></p>
+<p><img src="https://upload.cc/i1/2019/05/28/g91B8Y.jpg" alt=""></p>
+<p>一款4Font开发的钢琴插件，非常真实</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[采样器/音源]Kong Audio Chinee Orchestra FE v2.12 空音 中国乐器 Qin引擎版]]></title>
         <id>https://tiovenr.github.io/post/kongaudio212</id>
