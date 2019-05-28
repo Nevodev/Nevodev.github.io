@@ -1,15 +1,18 @@
+
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
+    
+<meta charset="utf-8" >
 
-<title>FX | Pok  — 分享实用教程 | TiovenR</title>
+<title>FX | 电音资源网站 | TiovenR</title>
 <meta name="description" content="TiovenR">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://tiovenr.github.io/favicon.ico?v=1559018436749">
+<link rel="shortcut icon" href="https://tiovenr.github.io/favicon.ico?v=1559018480350">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://tiovenr.github.io/styles/main.css">
 
@@ -18,144 +21,224 @@
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-
 
 
   </head>
   <body>
     <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://tiovenr.github.io">
-        <img src="https://tiovenr.github.io/images/avatar.png?v=1559018436749" class="site-logo">
-        <h1 class="site-title">Pok  — 分享实用教程 | TiovenR</h1>
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://tiovenr.github.io">
+        <img class="avatar" src="https://tiovenr.github.io/images/avatar.png?v=1559018480350" alt="" width="32px" height="32px">
       </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
+      <a href="https://tiovenr.github.io">
+        <h1 class="site-title">电音资源网站 | TiovenR</h1>
+      </a>
     </div>
-    <div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
+  </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
       
         
-          <a href="/" class="site-nav">
+          <a href="/" class="menu purple-link">
             首页
           </a>
         
       
         
-          <a href="/post/about" class="site-nav">
+          <a href="/post/about" class="menu purple-link">
             关于
           </a>
         
       
     </div>
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-    <div class="site-description">
-      TiovenR
-    </div>
-    <div class="site-footer">
-      2019 Pok Tioven | <a class="rss" href="https://tiovenr.github.io/atom.xml" target="_blank">RSS</a>
-    </div>
-  </div>
-</div>
+</transition>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <h2 class="current-tag">标签: FX</h2>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://tiovenr.github.io/post/fabfilter2019">
-                  <h2 class="post-title">[效果器]FabFilter Mac Win 2019版 ProQ 3</h2>
-                </a>
-                <div class="post-date">
-                  2019-05-27
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-                <a class="right" href="https://tiovenr.github.io/post/fabfilter2019">
-                  <div class="feature-container" style="background-image: url('https://upload.cc/i1/2019/05/27/iEaIWP.jpg')">
-                  </div>
-                </a>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://tiovenr.github.io/post/valhalladsp2019">
-                  <h2 class="post-title">[效果器]Valhalla DSP 全套</h2>
-                </a>
-                <div class="post-date">
-                  2019-05-27
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-                <a class="right" href="https://tiovenr.github.io/post/valhalladsp2019">
-                  <div class="feature-container" style="background-image: url('https://upload.cc/i1/2019/05/27/AkMdFR.png')">
-                  </div>
-                </a>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://tiovenr.github.io/post/kickstart109keygen">
-                  <h2 class="post-title">[资源分享]KickStart 1.0.9 Keygen</h2>
-                </a>
-                <div class="post-date">
-                  2019-05-26
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-                <a class="right" href="https://tiovenr.github.io/post/kickstart109keygen">
-                  <div class="feature-container" style="background-image: url('https://upload.cc/i1/2019/05/27/ZiSRNa.jpg')">
-                  </div>
-                </a>
-              
-            </article>
-          
+      <div class="content-container">
 
-          <div class="pagination-container">
-  
-  
-</div>
-
+        <div class="current-tag-container">
+          <h2 class="title">
+            <i class="icon icon-pricetags-outline"></i> FX
+          </h2> 
         </div>
+
+        
+<section class="post-item">
+    <div class="content">
+      <a href="https://tiovenr.github.io/post/fabfilter2019">
+        <h2 class="post-title">[效果器]FabFilter Mac Win 2019版 ProQ 3</h2>
+      </a>
+      <div class="post-abstract">
+        
+      </div>
+      <div class="post-info">
+        <span><i class="icon icon-calendar-outline"></i> 2019-05-27</span>
+        
+          <span>
+            <i class="icon icon-pricetags-outline"></i>
+            
+              <a href="https://tiovenr.github.io/tag/Zb_e_uvqs">
+                FX
+                
+                  ，
+                
+              </a>
+            
+              <a href="https://tiovenr.github.io/tag/GvPbRxYQd">
+                效果器
+                
+                  ，
+                
+              </a>
+            
+              <a href="https://tiovenr.github.io/tag/Vuh6HKMlv">
+                VST
+                
+              </a>
+            
+          </span>
+        
       </div>
     </div>
+    
+      <a href="https://tiovenr.github.io/post/fabfilter2019">
+        <div class="feature-container" style="background-image: url('https://upload.cc/i1/2019/05/27/iEaIWP.jpg')">
+        </div>
+      </a>
+    
+  </section>
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<section class="post-item">
+    <div class="content">
+      <a href="https://tiovenr.github.io/post/valhalladsp2019">
+        <h2 class="post-title">[效果器]Valhalla DSP 全套</h2>
+      </a>
+      <div class="post-abstract">
+        
+      </div>
+      <div class="post-info">
+        <span><i class="icon icon-calendar-outline"></i> 2019-05-27</span>
+        
+          <span>
+            <i class="icon icon-pricetags-outline"></i>
+            
+              <a href="https://tiovenr.github.io/tag/Zb_e_uvqs">
+                FX
+                
+                  ，
+                
+              </a>
+            
+              <a href="https://tiovenr.github.io/tag/GvPbRxYQd">
+                效果器
+                
+                  ，
+                
+              </a>
+            
+              <a href="https://tiovenr.github.io/tag/Vuh6HKMlv">
+                VST
+                
+              </a>
+            
+          </span>
+        
+      </div>
+    </div>
+    
+      <a href="https://tiovenr.github.io/post/valhalladsp2019">
+        <div class="feature-container" style="background-image: url('https://upload.cc/i1/2019/05/27/AkMdFR.png')">
+        </div>
+      </a>
+    
+  </section>
 
-<script type="application/javascript">
+<section class="post-item">
+    <div class="content">
+      <a href="https://tiovenr.github.io/post/kickstart109keygen">
+        <h2 class="post-title">[资源分享]KickStart 1.0.9 Keygen</h2>
+      </a>
+      <div class="post-abstract">
+        
+      </div>
+      <div class="post-info">
+        <span><i class="icon icon-calendar-outline"></i> 2019-05-26</span>
+        
+          <span>
+            <i class="icon icon-pricetags-outline"></i>
+            
+              <a href="https://tiovenr.github.io/tag/Zb_e_uvqs">
+                FX
+                
+                  ，
+                
+              </a>
+            
+              <a href="https://tiovenr.github.io/tag/GvPbRxYQd">
+                效果器
+                
+                  ，
+                
+              </a>
+            
+              <a href="https://tiovenr.github.io/tag/Vuh6HKMlv">
+                VST
+                
+              </a>
+            
+          </span>
+        
+      </div>
+    </div>
+    
+      <a href="https://tiovenr.github.io/post/kickstart109keygen">
+        <div class="feature-container" style="background-image: url('https://upload.cc/i1/2019/05/27/ZiSRNa.jpg')">
+        </div>
+      </a>
+    
+  </section>
 
-AOS.init();
+
+<div class="pagination-container">
+  
+  
+</div>
+
+
+      </div>
+
+      <div class="site-footer">
+  <div class="slogan">TiovenR</div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+  2019 Pok Tioven | <a class="rss" href="https://tiovenr.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+
+    </div>
+    <script type="application/javascript">
 
 hljs.initHighlightingOnLoad()
 
