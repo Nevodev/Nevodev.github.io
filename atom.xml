@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiovenr.github.io</id>
     <title>Pok! 电音资源网站 | TiovenR</title>
-    <updated>2019-05-28T12:58:39.063Z</updated>
+    <updated>2019-05-28T13:04:46.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiovenr.github.io"/>
     <link rel="self" href="https://tiovenr.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://tiovenr.github.io/images/avatar.png</logo>
     <icon>https://tiovenr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pok! 电音资源网站 | TiovenR</rights>
+    <entry>
+        <title type="html"><![CDATA[[音源/插件]MusicLab RealGuitar v5.007367 吉他插件5.0]]></title>
+        <id>https://tiovenr.github.io/post/yin-yuan-cha-jian-musiclab-realguitar-v5007367-ji-ta-cha-jian-50</id>
+        <link href="https://tiovenr.github.io/post/yin-yuan-cha-jian-musiclab-realguitar-v5007367-ji-ta-cha-jian-50">
+        </link>
+        <updated>2019-05-28T12:59:56.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1QyNWNv9xAf0Ah_EvUHOBPA">百度网盘</a>
+提取码：uas0</p>
+<p>不上传图片了...</p>
+<p>MusicLab出品的一款真实吉他插件,非常好用
+有很多技巧弹法</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[插件]4Front Technologies TruePianos v1.9.4 x86 x64 虚拟真实钢琴]]></title>
         <id>https://tiovenr.github.io/post/cha-jian-4front-technologies-truepianos-v194-x86-x64-xu-ni-zhen-shi-gang-qin</id>
