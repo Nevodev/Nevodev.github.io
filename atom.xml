@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiovenr.github.io</id>
     <title>Pok! 电音资源网站 | TiovenR</title>
-    <updated>2019-11-13T06:08:53.246Z</updated>
+    <updated>2019-11-13T13:34:19.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiovenr.github.io"/>
     <link rel="self" href="https://tiovenr.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://tiovenr.github.io/images/avatar.png</logo>
     <icon>https://tiovenr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pok! 电音资源网站 | TiovenR</rights>
+    <entry>
+        <title type="html"><![CDATA[[Tioven] 诈尸]]></title>
+        <id>https://tiovenr.github.io/post/tioven-zha-shi</id>
+        <link href="https://tiovenr.github.io/post/tioven-zha-shi">
+        </link>
+        <updated>2019-11-13T13:25:22.000Z</updated>
+        <content type="html"><![CDATA[<center><b>诈尸更新</b></center>
+<center>为啥更新了？</center>
+<center>起因是昨天不知道点了啥打开了Gridea</center>
+<center>然后我突然想起来...</center>
+<center><b>我的Pok!</b></center>
+<center>😂</center>
+<center><del>其实是因为我懒得写，一直没更新</del></center>
+<center><del>而且<b>没人看</b>我的<b>博客</b></del></center>
+<center>嘻嘻嘻</center>
+<center>ヾ(￣▽￣)Bye~Bye~</center>
+<center>不bb了,复习,明早<b>最后一场</b>!!(考试)</center>
+<center><del>反正<b>没人看</b></del></center>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[采样 | Cymatics] Vocal Bundle 4th of July]]></title>
         <id>https://tiovenr.github.io/post/vocalbundle4thofjuly</id>
