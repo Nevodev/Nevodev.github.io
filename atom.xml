@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiovenr.github.io</id>
     <title>Pok! 电音资源网站 | TiovenR</title>
-    <updated>2019-07-10T06:24:03.268Z</updated>
+    <updated>2019-11-13T06:00:12.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiovenr.github.io"/>
     <link rel="self" href="https://tiovenr.github.io/atom.xml"/>
@@ -11,15 +11,28 @@
     <icon>https://tiovenr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pok! 电音资源网站 | TiovenR</rights>
     <entry>
+        <title type="html"><![CDATA[[采样 | Cymatics] Vocal Bundle 4th of July]]></title>
+        <id>https://tiovenr.github.io/post/vocalbundle4thofjuly</id>
+        <link href="https://tiovenr.github.io/post/vocalbundle4thofjuly">
+        </link>
+        <updated>2019-11-13T05:43:12.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>😃Tioven我又来更新了......</strong><br>
+这个不必多说了，Cymatics出品<br>
+Download：<br>
+<strong>链接</strong>:https://pan.baidu.com/s/1PPZAhE3Gn_HiDLdm_fswwQ<br>
+<strong>提取码</strong>:osnt</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[音源/插件]MusicLab RealGuitar v5.007367 吉他插件5.0]]></title>
         <id>https://tiovenr.github.io/post/yin-yuan-cha-jian-musiclab-realguitar-v5007367-ji-ta-cha-jian-50</id>
         <link href="https://tiovenr.github.io/post/yin-yuan-cha-jian-musiclab-realguitar-v5007367-ji-ta-cha-jian-50">
         </link>
         <updated>2019-05-28T12:59:56.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1QyNWNv9xAf0Ah_EvUHOBPA">百度网盘</a>
+        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1QyNWNv9xAf0Ah_EvUHOBPA">百度网盘</a><br>
 提取码：uas0</p>
 <p>不上传图片了...</p>
-<p>MusicLab出品的一款真实吉他插件,非常好用
+<p>MusicLab出品的一款真实吉他插件,非常好用<br>
 有很多技巧弹法</p>
 ]]></content>
     </entry>
@@ -29,11 +42,11 @@
         <link href="https://tiovenr.github.io/post/cha-jian-4front-technologies-truepianos-v194-x86-x64-xu-ni-zhen-shi-gang-qin">
         </link>
         <updated>2019-05-28T12:51:35.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/16Uj3zwFIcphUqn-i7LGoRQ">百度网盘</a>
+        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/16Uj3zwFIcphUqn-i7LGoRQ">百度网盘</a><br>
 提取码：mr8i</p>
-<p>软件截图:
+<p>软件截图:<br>
 <img src="https://upload.cc/i1/2019/05/28/x50reu.png" alt=""></p>
-<p><img src="https://upload.cc/i1/2019/05/28/g91B8Y.jpg" alt=""></p>
+<figure data-type="image" tabindex="1"><img src="https://upload.cc/i1/2019/05/28/g91B8Y.jpg" alt=""></figure>
 <p>一款4Font开发的钢琴插件，非常真实</p>
 ]]></content>
     </entry>
@@ -43,19 +56,19 @@
         <link href="https://tiovenr.github.io/post/kongaudio212">
         </link>
         <updated>2019-05-28T05:24:07.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1c6fjKtlUBVBv5w9u-z7ORA">百度网盘</a>
+        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1c6fjKtlUBVBv5w9u-z7ORA">百度网盘</a><br>
 提取码：ausv</p>
 <p><a href="https://upload.cc/i1/2019/05/28/4uADFQ.jpg"></a></p>
 <p>更新内容 v2.12</p>
-<p>提升稳定性：
-琴引擎机架VSTi插件主程序x64位升级，优化界面刷新显示和效能改善，以适应在更多宿主作曲软件里快速加载和稳定调用。
-提升安全性：
-琴引擎机架VSTi插件主程序以及音源程序的加密保护重要变动，本次升级需重新获取和导入新的注册授权文件。
-提升便利性：
-在线授权机制开始上线，用户可在Qin_Helper v2.2 新版注册辅助工具中提交账户信息，即时获得注册授权文件。
-对乐器音源做出大范围调整，包括增加新的音色、采样的重新编辑以及音色预置参数的大量变动。
-更换新版独立运行程序，无需ASIO音频驱动也可正常使用。
-琴引擎机架VSTi插件主程序界面增加鼠标双击空白区域打开乐器音源浏览器的功能，等同于“Browser”按钮。
+<p>提升稳定性：<br>
+琴引擎机架VSTi插件主程序x64位升级，优化界面刷新显示和效能改善，以适应在更多宿主作曲软件里快速加载和稳定调用。<br>
+提升安全性：<br>
+琴引擎机架VSTi插件主程序以及音源程序的加密保护重要变动，本次升级需重新获取和导入新的注册授权文件。<br>
+提升便利性：<br>
+在线授权机制开始上线，用户可在Qin_Helper v2.2 新版注册辅助工具中提交账户信息，即时获得注册授权文件。<br>
+对乐器音源做出大范围调整，包括增加新的音色、采样的重新编辑以及音色预置参数的大量变动。<br>
+更换新版独立运行程序，无需ASIO音频驱动也可正常使用。<br>
+琴引擎机架VSTi插件主程序界面增加鼠标双击空白区域打开乐器音源浏览器的功能，等同于“Browser”按钮。<br>
 为适应制谱软件需求，其中管子、板胡、唢呐 三件乐器的总体键盘音域分布移高八度</p>
 ]]></content>
     </entry>
@@ -65,8 +78,8 @@
         <link href="https://tiovenr.github.io/post/cai-yang-stiickzz_sticky_future_house-cai-yang-bao">
         </link>
         <updated>2019-05-27T13:29:14.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://upload.cc/i1/2019/05/28/RHOJ4Y.jpg" alt="">
-<a href="https://pan.baidu.com/s/1tw6zCxsjO77s-RdOVATUBg">百度网盘</a>
+        <content type="html"><![CDATA[<p><img src="https://upload.cc/i1/2019/05/28/RHOJ4Y.jpg" alt=""><br>
+<a href="https://pan.baidu.com/s/1tw6zCxsjO77s-RdOVATUBg">百度网盘</a><br>
 提取码：p5ev</p>
 <p>此采样包包含:Serum预置 鼓采样 FL和ABLETON LIVE工程</p>
 ]]></content>
@@ -77,9 +90,9 @@
         <link href="https://tiovenr.github.io/post/fabfilter2019">
         </link>
         <updated>2019-05-27T05:47:33.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://upload.cc/i1/2019/05/27/iEaIWP.jpg" alt=""></p>
-<p><img src="https://upload.cc/i1/2019/05/27/dQ4yLt.jpg" alt=""></p>
-<p><a href="https://pan.baidu.com/s/1P83vNddVauOj9vnRWA-7pw">百度网盘</a>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://upload.cc/i1/2019/05/27/iEaIWP.jpg" alt=""></figure>
+<figure data-type="image" tabindex="2"><img src="https://upload.cc/i1/2019/05/27/dQ4yLt.jpg" alt=""></figure>
+<p><a href="https://pan.baidu.com/s/1P83vNddVauOj9vnRWA-7pw">百度网盘</a><br>
 提取码：jg0j</p>
 <p>荷兰公司出的一款超级强大的效果器</p>
 ]]></content>
@@ -94,8 +107,8 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>支持win mac两个</p>
 <!-- more -->
-<p><img src="https://upload.cc/i1/2019/05/27/69Rn4o.jpg" alt="tupian"></p>
-<p><a href="https://pan.baidu.com/s/1gGRVN57_edjlmjaiF52eeQ">百度网盘</a>
+<figure data-type="image" tabindex="1"><img src="https://upload.cc/i1/2019/05/27/69Rn4o.jpg" alt="tupian"></figure>
+<p><a href="https://pan.baidu.com/s/1gGRVN57_edjlmjaiF52eeQ">百度网盘</a><br>
 提取码：gs87</p>
 <p>Kontakt是目前世界上最流行的采样器，功能强大。可载入多种格式的音色，包括giga音色。有MIDI输入和输出功能。自带多种效果器。由于其功能强大，Kontakt的生态圈非常广阔，几乎囊括了所有乐器。您也可以使用Kontakt创建自己的乐器。您还可以外接MIDI键盘直接演奏，并且可以修改音色库的封面等来个性化您的音色库。</p>
 ]]></content>
@@ -106,10 +119,10 @@
         <link href="https://tiovenr.github.io/post/valhalladsp2019">
         </link>
         <updated>2019-05-27T05:21:26.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1p7U0RDFCvQyXp3grLLjAAg">百度网盘</a>
-提取码：dwpb
+        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1p7U0RDFCvQyXp3grLLjAAg">百度网盘</a><br>
+提取码：dwpb<br>
 <img src="https://upload.cc/i1/2019/05/27/AkMdFR.png" alt="ValhallaDSP"></p>
-<p>很好的混响效果器,国外很多制作人都在用
+<p>很好的混响效果器,国外很多制作人都在用<br>
 一共五个 WIN MAC都有</p>
 ]]></content>
     </entry>
@@ -119,9 +132,9 @@
         <link href="https://tiovenr.github.io/post/kickstart109keygen">
         </link>
         <updated>2019-05-26T12:28:41.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1gBGwxTkOJ0_f8p_r4uvIRw">百度网盘</a>
+        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1gBGwxTkOJ0_f8p_r4uvIRw">百度网盘</a><br>
 提取码：jmg3</p>
-<p><img src="https://upload.cc/i1/2019/05/27/ZiSRNa.jpg" alt=""></p>
+<figure data-type="image" tabindex="1"><img src="https://upload.cc/i1/2019/05/27/ZiSRNa.jpg" alt=""></figure>
 <p>很好用的一款侧链插件</p>
 ]]></content>
     </entry>
