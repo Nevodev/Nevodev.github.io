@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tiovenr.github.io</id>
     <title>Pok! 电音资源网站 | TiovenR</title>
-    <updated>2020-01-03T11:56:23.530Z</updated>
+    <updated>2020-01-03T12:10:42.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tiovenr.github.io"/>
     <link rel="self" href="https://tiovenr.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://tiovenr.github.io/images/avatar.png</logo>
     <icon>https://tiovenr.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Pok! 电音资源网站 | TiovenR</rights>
+    <entry>
+        <title type="html"><![CDATA[[合成器] Synapse Audio DUNE v3.0.7 CE]]></title>
+        <id>https://tiovenr.github.io/post/he-cheng-qi-synapse-audio-dune-v307-ce</id>
+        <link href="https://tiovenr.github.io/post/he-cheng-qi-synapse-audio-dune-v307-ce">
+        </link>
+        <updated>2020-01-03T11:59:58.000Z</updated>
+        <content type="html"><![CDATA[<center>这个合成器不用说了吧</center>
+<center>有些工程里会用，这个是新版本可以试试</center>
+<center>好像是Team V.R.的</center>
+<center>🤣</center>
+<center>Enjoy~</center>
+<center><s>马上期末了，不支持一下吗</s></center>
+<center>🤣</center>
+![](https://image.midifan.com/data/attach/album/2018/1210/7377_1544450449.jpg)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Tioven] 诈尸]]></title>
         <id>https://tiovenr.github.io/post/tioven-zha-shi</id>
@@ -154,18 +169,6 @@ Download：<br>
 <img src="https://upload.cc/i1/2019/05/27/AkMdFR.png" alt="ValhallaDSP" loading="lazy"></p>
 <p>很好的混响效果器,国外很多制作人都在用<br>
 一共五个 WIN MAC都有</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[资源分享] KickStart 1.0.9 Keygen]]></title>
-        <id>https://tiovenr.github.io/post/kickstart109keygen</id>
-        <link href="https://tiovenr.github.io/post/kickstart109keygen">
-        </link>
-        <updated>2019-05-26T12:28:41.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1gBGwxTkOJ0_f8p_r4uvIRw">百度网盘</a><br>
-提取码：jmg3</p>
-<figure data-type="image" tabindex="1"><img src="https://upload.cc/i1/2019/05/27/ZiSRNa.jpg" alt="" loading="lazy"></figure>
-<p>很好用的一款侧链插件</p>
 ]]></content>
     </entry>
 </feed>
