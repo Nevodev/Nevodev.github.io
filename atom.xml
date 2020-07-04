@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nevodev.github.io</id>
     <title>Nevodev&apos;s Blog | 主页</title>
-    <updated>2020-07-04T14:11:16.054Z</updated>
+    <updated>2020-07-04T14:13:33.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nevodev.github.io"/>
     <link rel="self" href="https://Nevodev.github.io/atom.xml"/>
@@ -24,15 +24,15 @@
 <h2 id="-more-关于更新不会怎么更新想起来就写一下"><!-- more --><br>
 ***关于更新<br>
 不会怎么更新，想起来就写一下</h2>
-<p>网站导航可以访问本站的[<sup>Music]编曲分类和[</sup>Software]软件分类</p>
+<p>网站导航可以访问本站的[Music]编曲分类和[Software]软件分类</p>
 <blockquote>
-<p>[^Music]编曲分类里会放一些本人常用的插件，<br>
-[^Software]软件分类会放一些工具之类的吧？<br>
-***关于我<br>
+<p>[Music]编曲分类里会放一些本人常用的插件，<br>
+[Software]软件分类会放一些工具之类的吧？</p>
+</blockquote>
+<p>***关于我<br>
 Nevdev，原是一位音乐人，现已退坑。<br>
 ****访问太慢？<br>
 请自备梯子。</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>
