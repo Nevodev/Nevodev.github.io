@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nevodev.github.io</id>
-    <title>Pok! 电音资源网站 | TiovenR</title>
-    <updated>2020-07-04T11:22:59.325Z</updated>
+    <id>https://Nevodev.github.io</id>
+    <title>Nevodev&apos;s Blog | 主页</title>
+    <updated>2020-07-04T11:28:19.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nevodev.github.io"/>
-    <link rel="self" href="https://nevodev.github.io/atom.xml"/>
-    <subtitle>TiovenR</subtitle>
-    <logo>https://nevodev.github.io/images/avatar.png</logo>
-    <icon>https://nevodev.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Pok! 电音资源网站 | TiovenR</rights>
+    <link rel="alternate" href="https://Nevodev.github.io"/>
+    <link rel="self" href="https://Nevodev.github.io/atom.xml"/>
+    <subtitle>Nevodev&apos;s Blog</subtitle>
+    <logo>https://Nevodev.github.io/images/avatar.png</logo>
+    <icon>https://Nevodev.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Nevodev&apos;s Blog | 主页</rights>
     <entry>
         <title type="html"><![CDATA[[音源/插件]MusicLab RealLPC v5.0.0.7457电吉他5.0 R2R]]></title>
-        <id>https://nevodev.github.io/post/reallpc5r2r/</id>
-        <link href="https://nevodev.github.io/post/reallpc5r2r/">
+        <id>https://Nevodev.github.io/post/reallpc5r2r/</id>
+        <link href="https://Nevodev.github.io/post/reallpc5r2r/">
         </link>
         <updated>2020-01-05T06:50:26.000Z</updated>
         <summary type="html"><![CDATA[<p>RealLPC-基于样本的虚拟乐器，采用创新的方法在标准MIDI键盘上模拟吉他声音建模和吉他技术。</p>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[合成器] Synapse Audio DUNE v3.0.7 CE]]></title>
-        <id>https://nevodev.github.io/post/dune307/</id>
-        <link href="https://nevodev.github.io/post/dune307/">
+        <id>https://Nevodev.github.io/post/dune307/</id>
+        <link href="https://Nevodev.github.io/post/dune307/">
         </link>
         <updated>2020-01-03T11:59:58.000Z</updated>
         <content type="html"><![CDATA[<center>这个合成器不用说了吧</center>
@@ -49,8 +49,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[Tioven] 诈尸]]></title>
-        <id>https://nevodev.github.io/post/tioven-zha-shi/</id>
-        <link href="https://nevodev.github.io/post/tioven-zha-shi/">
+        <id>https://Nevodev.github.io/post/tioven-zha-shi/</id>
+        <link href="https://Nevodev.github.io/post/tioven-zha-shi/">
         </link>
         <updated>2019-11-13T13:25:22.000Z</updated>
         <content type="html"><![CDATA[<center><b>诈尸更新</b></center>
@@ -79,8 +79,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[采样 | Cymatics] Vocal Bundle 4th of July]]></title>
-        <id>https://nevodev.github.io/post/vocalbundle4thofjuly/</id>
-        <link href="https://nevodev.github.io/post/vocalbundle4thofjuly/">
+        <id>https://Nevodev.github.io/post/vocalbundle4thofjuly/</id>
+        <link href="https://Nevodev.github.io/post/vocalbundle4thofjuly/">
         </link>
         <updated>2019-11-13T05:43:12.000Z</updated>
         <content type="html"><![CDATA[<p><strong>😃Tioven我又来更新了......</strong><br>
@@ -92,8 +92,8 @@ Download：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[[音源/插件] MusicLab RealGuitar v5.007367 吉他插件5.0]]></title>
-        <id>https://nevodev.github.io/post/yin-yuan-cha-jian-musiclab-realguitar-v5007367-ji-ta-cha-jian-50/</id>
-        <link href="https://nevodev.github.io/post/yin-yuan-cha-jian-musiclab-realguitar-v5007367-ji-ta-cha-jian-50/">
+        <id>https://Nevodev.github.io/post/yin-yuan-cha-jian-musiclab-realguitar-v5007367-ji-ta-cha-jian-50/</id>
+        <link href="https://Nevodev.github.io/post/yin-yuan-cha-jian-musiclab-realguitar-v5007367-ji-ta-cha-jian-50/">
         </link>
         <updated>2019-05-28T12:59:56.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1QyNWNv9xAf0Ah_EvUHOBPA">百度网盘</a><br>
@@ -105,8 +105,8 @@ Download：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[[插件] 4Front Technologies TruePianos v1.9.4 x86 x64 虚拟真实钢琴]]></title>
-        <id>https://nevodev.github.io/post/cha-jian-4front-technologies-truepianos-v194-x86-x64-xu-ni-zhen-shi-gang-qin/</id>
-        <link href="https://nevodev.github.io/post/cha-jian-4front-technologies-truepianos-v194-x86-x64-xu-ni-zhen-shi-gang-qin/">
+        <id>https://Nevodev.github.io/post/cha-jian-4front-technologies-truepianos-v194-x86-x64-xu-ni-zhen-shi-gang-qin/</id>
+        <link href="https://Nevodev.github.io/post/cha-jian-4front-technologies-truepianos-v194-x86-x64-xu-ni-zhen-shi-gang-qin/">
         </link>
         <updated>2019-05-28T12:51:35.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/16Uj3zwFIcphUqn-i7LGoRQ">百度网盘</a><br>
@@ -119,8 +119,8 @@ Download：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[[采样器/音源] Kong Audio Chinee Orchestra FE v2.12 空音 中国乐器 Qin引擎版]]></title>
-        <id>https://nevodev.github.io/post/kongaudio212/</id>
-        <link href="https://nevodev.github.io/post/kongaudio212/">
+        <id>https://Nevodev.github.io/post/kongaudio212/</id>
+        <link href="https://Nevodev.github.io/post/kongaudio212/">
         </link>
         <updated>2019-05-28T05:24:07.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://pan.baidu.com/s/1c6fjKtlUBVBv5w9u-z7ORA">百度网盘</a><br>
@@ -141,8 +141,8 @@ Download：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[[采样] StiickzZ Sticky Future House 采样包]]></title>
-        <id>https://nevodev.github.io/post/cai-yang-stiickzz_sticky_future_house-cai-yang-bao/</id>
-        <link href="https://nevodev.github.io/post/cai-yang-stiickzz_sticky_future_house-cai-yang-bao/">
+        <id>https://Nevodev.github.io/post/cai-yang-stiickzz_sticky_future_house-cai-yang-bao/</id>
+        <link href="https://Nevodev.github.io/post/cai-yang-stiickzz_sticky_future_house-cai-yang-bao/">
         </link>
         <updated>2019-05-27T13:29:14.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://upload.cc/i1/2019/05/28/RHOJ4Y.jpg" alt="" loading="lazy"><br>
@@ -153,8 +153,8 @@ Download：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[[效果器] FabFilter Mac Win 2019版 ProQ 3]]></title>
-        <id>https://nevodev.github.io/post/fabfilter2019/</id>
-        <link href="https://nevodev.github.io/post/fabfilter2019/">
+        <id>https://Nevodev.github.io/post/fabfilter2019/</id>
+        <link href="https://Nevodev.github.io/post/fabfilter2019/">
         </link>
         <updated>2019-05-27T05:47:33.000Z</updated>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://upload.cc/i1/2019/05/27/iEaIWP.jpg" alt="" loading="lazy"></figure>
@@ -166,8 +166,8 @@ Download：<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[[采样器] Kontakt 5 v5.6.5 康泰克]]></title>
-        <id>https://nevodev.github.io/post/kontakt5v565/</id>
-        <link href="https://nevodev.github.io/post/kontakt5v565/">
+        <id>https://Nevodev.github.io/post/kontakt5v565/</id>
+        <link href="https://Nevodev.github.io/post/kontakt5v565/">
         </link>
         <updated>2019-05-27T05:38:40.000Z</updated>
         <summary type="html"><![CDATA[<p>支持win mac两个</p>
