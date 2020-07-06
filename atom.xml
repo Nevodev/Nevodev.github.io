@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nevodev.github.io</id>
     <title>Nevodev&apos;s Blog | 主页</title>
-    <updated>2020-07-06T04:47:09.233Z</updated>
+    <updated>2020-07-06T05:14:42.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nevodev.github.io"/>
     <link rel="self" href="https://Nevodev.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://Nevodev.github.io/images/avatar.png</logo>
     <icon>https://Nevodev.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nevodev&apos;s Blog | 主页</rights>
+    <entry>
+        <title type="html"><![CDATA[[Music] FabFilter Total Bundle 2020.6 肥波全家桶]]></title>
+        <id>https://Nevodev.github.io/post/fabfilter-total-bundle/</id>
+        <link href="https://Nevodev.github.io/post/fabfilter-total-bundle/">
+        </link>
+        <updated>2020-07-06T04:49:02.000Z</updated>
+        <content type="html"><![CDATA[<p><b>· Total Bundle</b><br>
+Total Bundle是一套FabFilter的所有插件。在这个软件包中，你可以得到我们专业的EQ，混响，压缩，多段动态，限制器，去咝咝声器和门/扩展器，创造性的多段失真，延迟，过滤器和合成器插件。<br>
+<b>· 信息</b><br>
+包括肥波公司的所有插件，2020年6月新版。<br>
+Team V.R.</p>
+<p>下载链接: https://nevoit.lanzous.com/ihNNMecn00j</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Software] Fontlab 7 v7.2.3.7436 (x64)]]></title>
         <id>https://Nevodev.github.io/post/software-fontlab-7-v7237436-x64/</id>
