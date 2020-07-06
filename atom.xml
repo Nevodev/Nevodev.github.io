@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nevodev.github.io</id>
     <title>Nevodev&apos;s Blog | 主页</title>
-    <updated>2020-07-05T04:53:18.073Z</updated>
+    <updated>2020-07-06T04:43:46.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nevodev.github.io"/>
     <link rel="self" href="https://Nevodev.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://Nevodev.github.io/images/avatar.png</logo>
     <icon>https://Nevodev.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nevodev&apos;s Blog | 主页</rights>
+    <entry>
+        <title type="html"><![CDATA[[Software] Fontlab 7 v7.2.3.7436 (x64)]]></title>
+        <id>https://Nevodev.github.io/post/software-fontlab-7-v7237436-x64/</id>
+        <link href="https://Nevodev.github.io/post/software-fontlab-7-v7237436-x64/">
+        </link>
+        <updated>2020-07-05T04:55:48.000Z</updated>
+        <content type="html"><![CDATA[<p>下载链接: https://nevoit.lanzous.com/ilV0Debm9wd<br>
+一款字体编辑工具。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>https://Nevodev.github.io/post/hello-world/</id>
